@@ -58,6 +58,6 @@
     "sass": "^1.32.7",
     "set-value": "3.0.2",
     "uglify-es": "^3.3.9",
-    "yargs-parser": "^19.0.4"
+    "yargs-parser": "^20.2.7"
   }
 }
